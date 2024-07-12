@@ -16,7 +16,7 @@ class stack{
            cin>>arr[i];
            ++top;
         }
-        //count++;
+       
     }
     
     int pop()
